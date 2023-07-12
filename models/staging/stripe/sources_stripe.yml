@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: stripe
+    database: dbt-learn-391817
+    schema: database_stripe 
+    tables:
+      - name: payment
