@@ -5,5 +5,5 @@ sources:
     database: dbt-learn-391817
     schema: database_jaffle_shop  
     tables:
-      - name: orders
-      - name: customers
+      - name: order
+      - name: customer
